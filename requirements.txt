@@ -1,0 +1,9 @@
+tensorflow
+rospy
+pyyaml
+rospkg
+torch
+opencv-python
+cv_bridge
+netifaces
+timm
